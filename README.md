@@ -39,8 +39,5 @@ Contributions to this project are welcome. If you have ideas for enhancements or
 
 ## Credits
 
-This project was developed by Ankit kaklotar and is distributed under the no license. Special thanks to [Acknowledgements] for their contributions and support.
+This project was developed by Ankit kaklotar and is distributed under the no license. Special thanks to Prof Naveen kumar for their contributions and support.
 
-## License
-
-This project is licensed under the [OnlineRetailManagementSystem] License - see the [LICENSE](LICENSE) file for details.
